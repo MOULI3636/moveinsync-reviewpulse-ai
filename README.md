@@ -2,8 +2,9 @@
 
 **ReviewPulse AI** is a review-analysis and rating-improvement project built to explore customer feedback from MoveInSync's Google Play Store reviews. It organizes review data, analyzes ratings and sentiment, identifies recurring complaint themes, prioritizes issues, and presents findings through an interactive dashboard.
 
+**Live Link:** https://moveinsync-reviewpulse-ai-mouli36.streamlit.app/
+
 > **Project goal:** Turn customer reviews into actionable product and operational insights by highlighting where users are dissatisfied and what teams should investigate first.
-> **Live Link:** https://moveinsync-reviewpulse-ai-mouli36.streamlit.app/
 
 ---
 
