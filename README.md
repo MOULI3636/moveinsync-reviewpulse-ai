@@ -240,9 +240,7 @@ Depending on the implemented code, the project can be used to produce:
 ## Author
 
 **Mouli Banerjee**  
-Registration No.: `12300455`  
 Email: `banerjeemouli26@gmail.com`  
-Phone: `+91 7602927810`
 
 ---
 
